@@ -6,3 +6,6 @@ abstract class Controller
 {
     //
 }
+Function funcion1(){ 
+
+}
