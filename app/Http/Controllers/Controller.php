@@ -9,3 +9,6 @@ abstract class Controller
 Function funcion1(){ 
 
 }
+Function funcion2(){ 
+
+}
